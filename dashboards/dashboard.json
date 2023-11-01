@@ -24,7 +24,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 0,
-  "iteration": 1698329920618,
+  "iteration": 1698860586829,
   "links": [],
   "liveNow": false,
   "panels": [
@@ -155,7 +155,7 @@
           "tags": []
         }
       ],
-      "title": "Panel Title",
+      "title": "Avg. Request Duration by Request (ms)",
       "type": "timeseries"
     },
     {
@@ -725,7 +725,7 @@
       {
         "allValue": "",
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "All",
           "value": "$__all"
         },
@@ -749,7 +749,7 @@
       {
         "allValue": "",
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "All",
           "value": "$__all"
         },
@@ -773,13 +773,13 @@
     ]
   },
   "time": {
-    "from": "2023-10-26T14:07:27.713Z",
-    "to": "2023-10-26T14:07:42.244Z"
+    "from": "now-5m",
+    "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Dashboard",
   "uid": "51vfO47Ik",
-  "version": 3,
+  "version": 1,
   "weekStart": ""
 }

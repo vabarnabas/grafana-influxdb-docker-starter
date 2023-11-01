@@ -1,4 +1,4 @@
-# grafana-influxdb-docker-starter
+# Grafana InfluxDB Docker Starter
 
 > A small docker-compose setup for a Grafana dashboard with InfluxDB
 
